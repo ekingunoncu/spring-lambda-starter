@@ -1,0 +1,1 @@
+MAVEN_OPTS="-DskipTests=true" sam build
